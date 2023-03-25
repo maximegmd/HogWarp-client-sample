@@ -78,8 +78,5 @@ Source/*
 Plugins/*
 WindowsNoEditor/*
 
-Content/*
-!Content/HogWarp**
-
 phoenix.uproject
 Config/*
